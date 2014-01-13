@@ -1,0 +1,9 @@
+{
+	"name": "walkingthumbs/bad-words",
+	"type": "library",
+	"description": "List of words we won't allow in names",
+	"keywords": ["profanity"],
+	"homepage": "https://github.com/walkingthumbs/Bad-Words",
+	"license": "unknown",
+	"target-dir": "bad-words"
+}
