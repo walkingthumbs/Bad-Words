@@ -5,5 +5,5 @@
 	"keywords": ["profanity"],
 	"homepage": "https://github.com/walkingthumbs/Bad-Words",
 	"license": "unknown",
-	"target-dir": "bad-words"
+	"target-dir": "bad-words-list"
 }
